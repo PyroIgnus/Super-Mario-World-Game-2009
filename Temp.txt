@@ -1,0 +1,12 @@
+Mario
+6000
+Luigi
+5000
+Jenna
+4392
+Princess Toad's-Tool
+4000
+Gestapo Goomba
+2000
+Toad
+100
